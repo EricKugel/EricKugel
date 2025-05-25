@@ -1,1 +1,1 @@
-Hello! I'm Eric Kugel. I am a freshman double majoring in Computer Science and Math.
+Hello! I'm Eric Kugel. I am a sophomore double majoring in Computer Science and Math.
